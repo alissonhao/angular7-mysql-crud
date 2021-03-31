@@ -1,9 +1,9 @@
 export default {
 
     database: {
-        host: 'localhost',
+        host: 'localhost',        
         user: 'root',
-        password: 'whateverpass',
+        password: 'root',
         database: 'ng_games'
     }
 
